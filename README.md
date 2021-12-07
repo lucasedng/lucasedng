@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Lucas Eduardo, sou mestrando e pesquisador em Matemática Pura e Aplicada pela Universidade Federal de São Paulo (UNIFESP). Minha area de pesquisa concentra tópicos de Teoria da Informação, Transmissão de Dados, Correção de Erros e Criptografia. 
+  Me chamo Lucas Eduardo, sou mestrando e pesquisador em Matemática Pura e Aplicada pela Universidade Federal de São Paulo (UNIFESP). Minha área de pesquisa concentra tópicos de Teoria da Informação, Transmissão de Dados, Correção de Erros e Criptografia. 
 </p>
 <p align="left">
   💌 Para contato: ⤵️
