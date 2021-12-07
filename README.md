@@ -19,7 +19,9 @@
 <p align="left">
   🦄 Linguagens mais utilizadas: <strong>Python, Mathematica e C</strong>
 </p>
+
 _____________________________________________
+
 
 <p align="left">
  📊 Projetos atuais:
