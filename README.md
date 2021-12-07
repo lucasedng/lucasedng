@@ -31,7 +31,7 @@ _____________________________________________
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=discord_bot_public)](https://github.com/lucasedng/discord_bot_public)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=latties_api)](https://github.com/lucasedng/lattices_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=lattices_api)](https://github.com/lucasedng/lattices_api)
 _____________________________________________
 
 <p align="left">
