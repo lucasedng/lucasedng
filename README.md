@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Lucas Eduardo, sou mestrando e pesquisador em Matemática Pura e Aplicada pela Universidade Federal de São Paulo. Minha area de pesquisa concentra tópicos da Teoria da Informação, Transmissão de Dados, Correção de Erros e Criptografia. e hoje Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Me chamo Lucas Eduardo, sou mestrando e pesquisador em Matemática Pura e Aplicada pela Universidade Federal de São Paulo (UNIFESP). Minha area de pesquisa concentra tópicos de Teoria da Informação, Transmissão de Dados, Correção de Erros e Criptografia. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>Python, Mathematica, C</strong>
 </p>
 
 <p align="left">
@@ -18,11 +17,11 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasedng@gmail.com" /></a>
+  <a href="mailto:lucasedng@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/goncalveslucas/" /></a>
+  <a href="www.linkedin.com/in/goncalveslucas/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
