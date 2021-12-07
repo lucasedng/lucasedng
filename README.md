@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  💼 📊 Projetos atuais:
+ 📊 Projetos atuais:
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=research)](https://github.com/lucasedng/research)
@@ -30,3 +30,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=lattices_api)](https://github.com/lucasedng/lattices_api)
 
+<p align="left">
+  💼 Projeto destaque da graduação:
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=computational-modeling-and-simulation/tree/main/projetofinal)](https://github.com/lucasedng/computational-modeling-and-simulation/tree/main/projetofinal)
