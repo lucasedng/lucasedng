@@ -34,4 +34,4 @@
   💼 Projeto destaque da graduação:
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=computational-modeling-and-simulation/tree/main/projetofinal)](https://github.com/lucasedng/computational-modeling-and-simulation/tree/main/projetofinal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasedng&repo=computational-modeling-and-simulation)](https://github.com/lucasedng/computational-modeling-and-simulation/tree/main/projetofinal)
